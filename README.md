@@ -1,4 +1,4 @@
 # 12-column Simple Responsive Grid System for Web Designers
-Download the CSS stylesheet and use the appropriate classes.
+Download the [CSS stylesheet](https://github.com/martinsbg/simple-grid/blob/master/grid.css
+) and use the appropriate classes.
 
-https://github.com/martinsbg/simple-grid/blob/master/grid.css

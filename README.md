@@ -1,1 +1,2 @@
-# Simple Grid - Responsive CSS Grid System for web designers
+# Simple Grid - Responsive CSS Grid System
+12-column grid system for web designers.

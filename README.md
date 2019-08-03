@@ -1,2 +1,1 @@
-# Simple Grid
-Responsive CSS Grid System for web designers
+# Simple Grid - Responsive CSS Grid System for web designers

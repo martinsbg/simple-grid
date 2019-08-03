@@ -1,2 +1,2 @@
-# Simple Grid - 12-column Responsive Grid System for web designers
+# 12-column Simple Responsive Grid System for Web Designers
 Download the CSS stylesheet and use the appropriate classes.
